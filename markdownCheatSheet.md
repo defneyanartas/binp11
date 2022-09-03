@@ -1,6 +1,6 @@
 # Markdown Cheat Sheet
-- Heading   # H1 <br>
-            ## H2 <br>
+- Heading|   # H1 <br>
+|            ## H2 <br>
             ### H3 <br>
 - Bold	                \*\*bold text** <br>
 - Italic	                \*italicized text*<br>
