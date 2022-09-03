@@ -1,16 +1,9 @@
-Heading	                # H1
-                        ## H2
-                        ### H3
-Bold	                **bold text**
-Italic	                *italicized text*
-Blockquote	            > blockquote
-Ordered List	           1. First item
-                        2. Second item
-                        3. Third item
-Unordered List	        - First item
-                        - Second item
-                        - Third item
-Code	                `code`
-Horizontal Rule	        ---
-Link	                [title](https://www.example.com)
-Image	                ![alt text](image.jpg)
+# Markdown Cheat Sheet
+- Heading	                # H1 <br>
+                          ## H2 <br>
+                        ### H3 <br>
+- Bold	                **bold text** <br>
+- Italic	                *italicized text*<br>
+- Unordered List	        - First item<br>
+                        - Second item<br>
+                        - Third item<br>
