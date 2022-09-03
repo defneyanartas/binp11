@@ -5,4 +5,4 @@
 |Bold      |\*\*bold text**|
 |Italic    |\*italicized text*|
 |Unordered List|\- First item<br>\- Second item<br>\- Third item<br>
-|Cancel the function| \|
+|Cancel the function| \\|
