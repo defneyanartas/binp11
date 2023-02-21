@@ -7,3 +7,6 @@
 |print current directory|pwd|
 |change directory|cd|
 |print text to the terminal|echo|
+|remove file|rm|
+|unzip file|unzip|
+
